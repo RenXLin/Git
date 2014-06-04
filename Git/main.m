@@ -18,6 +18,18 @@ int main(int argc, const char * argv[])
         
         NSLog(@"test githut");
         
+        NSLog(@"dfsfwof;");
+        NSString *aa = @"string";
+        
+        NSLog(@"aaaaa");
+        
+        NSLog(@"2222");
+        
+        
+        
+        
+        
+        
     }
     return 0;
 }
